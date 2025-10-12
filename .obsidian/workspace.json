@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/Actividad6-GenerallSkills-parte3/Super SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Super SSH"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "ed653c4acd8f31ea",
@@ -171,11 +171,48 @@
   },
   "active": "40f2c2009b3a8895",
   "lastOpenFiles": [
-    "Bienvenido.md",
-    "README.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/Serpentine.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/runme.py.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/PW crack 2.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/PW Crack 1.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/Fixme2.py.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/Fixme1.py.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/convertme.py.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/codebook.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/PW crack3.md",
+    "Pasted image 20251011180109.png",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/Super SSH.md",
+    "Pasted image 20251011175803.png",
+    "Pasted image 20251011174800.png",
+    "Pasted image 20251011172355.png",
+    "Pasted image 20251011171526.png",
     "PicoCTF/Plantilla.md",
-    "cree un enlace.md",
-    "Sin nombre",
+    "Pasted image 20251011145508.png",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/capturas/convertme..md",
+    "Codebook.md",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/capturas/convertme.py.md",
+    "Pasted image 20251011165308.png",
+    "PicoCTF/Actividad5-GenerallSkills2/Wave a flag.md",
+    "PicoCTF/Actividad5-GenerallSkills2/useless.md",
+    "PicoCTF/Actividad5-GenerallSkills2/Tab, Tab, Attack.md",
+    "PicoCTF/Actividad5-GenerallSkills2/strings it.md",
+    "PicoCTF/Actividad5-GenerallSkills2/Static ain't always noise.md",
+    "PicoCTF/Actividad5-GenerallSkills2/repetitions.md",
+    "PicoCTF/Actividad5-GenerallSkills2/First Find.md",
+    "PicoCTF/Actividad5-GenerallSkills2/Big Zip.md",
+    "PicoCTF/Actividad5-GenerallSkills2/Based.md",
+    "PicoCTF/Actividad5-GenerallSkills2/Magikarp Ground Mission.md",
+    "Pasted image 20251011162510.png",
+    "Pasted image 20251011154024.png",
+    "Pasted image 20251011154004.png",
+    "PicoCTF/Actividad8_web/Where are the robots.md",
+    "PicoCTF/Actividad5-GenerallSkills2",
+    "Configuracion_entorno.pdf",
+    "PicoCTF/Actividad8_web",
+    "PicoCTF/Actividad4-GeneralSkills1",
+    "PicoCTF/Actividad6-GenerallSkills-parte3/capturas",
+    "PicoCTF/Generall Skills - parte3/Nueva carpeta",
+    "PicoCTF/Actividad6-GenerallSkills-parte3",
     "PicoCTF"
   ]
 }
